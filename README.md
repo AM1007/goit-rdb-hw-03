@@ -7,14 +7,14 @@
 - Select all columns using the wildcard (\*) from the "products" table.
 - Select only the "name" and "phone" columns from the "shippers" table.
 - Verify its execution in MySQL Workbench.
-  ![Preview](./images/Task1_point1.png)
-  ![Preview](./images/Task1_point2.png)
+  ![Preview](./images/task1_point1.png)
+  ![Preview](./images/task1_point2.png)
 
 2. Write an SQL command to:
 
 - Find the average, maximum, and minimum values of the "price" column in the "products" table.
 - Verify its execution in MySQL Workbench.
-  ![Preview](./images/Task2.png)
+  ![Preview](./images/task2.png)
 
 3. Write an SQL command to:
 
